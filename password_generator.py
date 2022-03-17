@@ -1,4 +1,3 @@
-from cgitb import small
 import random
 import string
 n = int(input('Enter the length of password: '))
