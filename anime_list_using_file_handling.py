@@ -1,6 +1,3 @@
-from ctypes import sizeof
-
-
 file = 'anime_list.txt'
 
 def newAnime():
