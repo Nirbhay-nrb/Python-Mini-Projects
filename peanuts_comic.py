@@ -7,7 +7,7 @@ from datetime import date
 todays_date = date.today()
 
 def randomDate():
-    year = random.randint(1950,1951)
+    year = random.randint(1950,todays_date.year)
     if year==1950: # from october 2nd
         month = random.randint(10,12)
         if month == 10:
