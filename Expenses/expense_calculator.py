@@ -78,4 +78,4 @@ print('Thank you!!')
 # adding expenses to the file:
 # Use '@' in the starts of date
 # if expeniture then write normally
-# if income then write '+' in the starting without any spaces
+# if income then write '-' in the starting without any spaces
